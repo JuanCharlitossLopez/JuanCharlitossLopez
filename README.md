@@ -9,7 +9,7 @@
 
 ###
 
-<!-- <img align="right" height="150" src="https://diveinintl.com/lander/surachipm.com/?_=%2F5ry-200hErMAAAAM%2Fhacker-hacker-man.gif%23avVel1cMipmhS6kQFFAEGo0V28eOKzE%3D"  /> -->
+<!-- <img align="right" height="150" src="https://photos.fife.usercontent.google.com/pw/AP1GczOJfaly_e1MaNxIPKTYK4fAQSFbxsHWqxlvEgCApOs2YRkcmBehOtJQ=w2846-h1602-s-no-gm?authuser=0"  /> -->
 
 ###
 
