@@ -50,3 +50,4 @@
 <img src="https://raw.githubusercontent.com/JuanCharlitossLopez/JuanCharlitossLopez/output/snake.svg" alt="Snake animation" />
 
 ###
+<img align="right" height="150" src="https://raw.githubusercontent.com/JuanCharlitossLopez/JuanCharlitossLopez/ee503b8e089649a0ffd582085f04de4260d4fba7/.github/workflows/yo.jpg"  />  
