@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Lopez</h1>
-<h3 align="center">I'm a Computer Systems Engineer from Mexico. A passionate FullStack developer from Mexico</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juancharlitosslopez" alt="juancharlitosslopez" /></a> </p>
+<h3 align="center">I'm a Computer Systems Engineer. A passionate FullStack developer from Mexico</h3>
 
 - 📫 How to reach me **juancalopez825@gmail.com**
 
